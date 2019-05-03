@@ -20,3 +20,5 @@ The result of running this code is a MAT file containing the data to be used by 
 This main driver code requires the following supporting code.
 
 * ellipsoid_fit.m -- This code computes a surface of the ellipsoidal scattering objects to be reconstructed. This surface is plotted along with the isosurface of the imaging result to compare results.
+
+Also included in this repository is the sample MAT file called "ForwardData.mat" to run "MUSICImaging3D.m" without having to run "ForwardProblem3D.m".
